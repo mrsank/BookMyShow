@@ -1,0 +1,1 @@
+<p>&copy; 2014 BookMyFilms All rights reserved.</p>
